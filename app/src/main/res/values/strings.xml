@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication123</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="startTest">Пройти Тест</string>
+    <string name="myProfile">Мой профиль</string>
+</resources>
